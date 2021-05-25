@@ -1,0 +1,19 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cutelittleuploader-dev-132712-authRole",
+      "UnauthRoleArn": "arn:aws:iam::088987693321:role/amplify-cutelittleuploader-dev-132712-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::088987693321:role/amplify-cutelittleuploader-dev-132712-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-cutelittleuploader-dev-132712-deployment",
+      "UnauthRoleName": "amplify-cutelittleuploader-dev-132712-unauthRole",
+      "StackName": "amplify-cutelittleuploader-dev-132712",
+      "StackId": "arn:aws:cloudformation:us-west-2:088987693321:stack/amplify-cutelittleuploader-dev-132712/97cc44b0-bd97-11eb-88c9-0a5fe9e3122b"
+    },
+    "categories": {
+      "auth": {
+        "cutelittleuploader208cfe44": {}
+      }
+    }
+  }
+}

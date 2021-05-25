@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "cutelittleuploader208cfe44": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "s348be8108": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
